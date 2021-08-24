@@ -1,15 +1,15 @@
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\hash.bat - 38bb0c5fc37af0a1da9c5464bb3502d1314c6dda
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\hashes.txt - E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\Mafia.exe - 60aca65f9b362e0acf5bb7ac0278985dfaea2943
-E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\UnityCrashHandler64.exe - 82a67a441d8e3b7f8a7c363b08d56314588005e2
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\sus.txt - E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\UnityCrashHandler64.exe - 82a67a441d8e3b7f8a7c363b08d56314588005e2
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\UnityPlayer.dll - e9a03d23be4ba1e7d7d7fdac96946065a5bc9ef5
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\Version.txt - 3a4e7d86cbfb54a0ce8701db5ef7da093445365c
-E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\COMMIT_EDITMSG - 39fc43f5fa384768eba05a0502519250afb539e8
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\COMMIT_EDITMSG - 3114d5cadf322a01406ad8b30e0e525260b090cd
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\config - acfbea1dc459a2f1f3bf81f330f2dcdec6535789
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\description - 9635f1b7e12c045212819dd934d809ef07efa2f4
-E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\FETCH_HEAD - f1ecb6094b29bb19f1ab744742ef3d084b904460
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\FETCH_HEAD - 635b0416eae505e2ff63e306bf73d51741977e94
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\HEAD - acbaef275e46a7f14c1ef456fff2c8bbe8c84724
-E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\index - cf07833f0e5c70078d2f9f39cff44b2ed44348cb
-E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\sourcetreeconfig.json - 6c2dd136fe2030f54b34f39d3b362c255d20291d
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\index - 201b2380bb9e7fb8a5af46d6e4077b19c5ebe54b
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\sourcetreeconfig.json - 8c940c015ca69d3e6a1ec5e79d0334309c6c3a0a
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\hooks\applypatch-msg.sample - 4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\hooks\commit-msg.sample - ee1ed5aad98a435f2020b6de35c173b75d9affac
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\hooks\fsmonitor-watchman.sample - 118ff5509f187039734d04456bf01e44c933ac19
@@ -24,15 +24,16 @@ E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\hooks\prepare-com
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\hooks\push-to-checkout.sample - 508240328c8b55f8157c93c43bf5e291e5d2fbcb
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\hooks\update.sample - 730e6bd5225478bab6147b7a62a6e2ae21d40507
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\info\exclude - c879df015d97615050afa7b9641e3352a1e701ac
-E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\logs\HEAD - 584a82b293c4f50d842ecb4838efab8486956069
-E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\logs\refs\heads\master - 584a82b293c4f50d842ecb4838efab8486956069
-E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\logs\refs\remotes\origin\master - 3ba25f9a16cbc3b727bbd40b98440bb9292d8cdd
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\logs\HEAD - 703e1fd07f0c4aacee9e2fab69e0706c75692747
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\logs\refs\heads\master - 703e1fd07f0c4aacee9e2fab69e0706c75692747
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\logs\refs\remotes\origin\master - 501c346c01ad543207faf800ec3ee989691ed21f
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\05\f9996ba3ac048bac3b3cd8151210621075f4ab - 7aad0005340700d7641e0885e4f6484ab1857117
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\09\107e89017bc0c39d46a007c370251a875c2676 - 044ac210bc971cd41c72c85a0f8e820141ea21e3
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\0c\b31c4b03fdba352e436795f936e5ead5cf46d2 - ccb268a1af841ca298c1e7a5c1c74363c07ea6b5
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\0d\1e1d889f68bf60946e64836eee4a2f7155cc70 - e8b0c3e998671ee8abddb5b59ecc44e1b79a6437
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\0d\c75a9f3d075e3e33b67b9177acce7dcf5aaddc - 8c3413454b086c7f81c5d807c72650d1d9e8f1f6
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\10\a8928f9d3ec31d8c7067af8a6dedcd7404dde3 - 3f4303d1e1fc7a9319e0365844cb167c99f4729b
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\10\ebce2fc38158885430ec7bb7622886fceacee8 - b6ea29052d70b5b747988776a4f3ccb3702165ec
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\12\67e1deb4061a8250ad25125fc7d20fd2ae04ac - 08e2594afa45776699bd3e0750df84c513eaf0ca
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\12\839c1f6a3cc26989cbc808fc477267d6fbd010 - 96df08c5b479b6e4c74389c2ff8400bfadf7248a
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\13\d4b50597b9c94da594c042924a139b294eb1a2 - 4b1fa4d00cf0bcd41f0c768cea8924de514202dc
@@ -85,6 +86,7 @@ E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\54\5c74ac
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\5a\3ad8c406a7d0b87dc50abd83284f81ebc662a7 - a85cd8cda2940f0a3d3ac67a8f1572248857958f
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\5a\d24edc44973d9272657188efdf1eab41d1af9a - fbbcf8f0810dd3f881cbe1aa49e369e7d40323fc
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\5f\b2cb14257c711023e61fcd767463cef3a36705 - bb2da41ad5c00a03525133c86725ae093773e822
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\60\f1ccbe76a3c491ea76b1c0b6c2e1460e52ac4c - 0da0c4a480fbc899aebe08d7bf2e73f9eac5c906
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\61\0a746eb5e9e2b8d0699496caba27fac72cc488 - e425bc3a3f5c3ad1978dd24b9609ec409bcc79a5
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\61\f7889871f8b6fab01cd2e0bc2cc34947488fef - daaed9d024e5aa88ece23433ec71e67bb15169b5
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\62\41b4af0f71c88517f24a63381ad8ed58a7b88b - 7aed4392f1724a7652bdd05177ce2c55f49eb51e
@@ -106,6 +108,7 @@ E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\7b\cd0e36
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\7d\12b091be90d15b14450d7bb65a15c8e65d0b20 - ef1db8d8a94fc9d2ef10652ef065df436c4b64a8
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\7d\6df32f08547f4fe6ae81410b05b95e2b6695ef - 0ca64fba3a97bcf3b0c070f7a0ee9c61438a96ab
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\7d\97e07821e572594b2aaeb1bcaed4fe68e44b8a - 9bb68231be8021a870bb2a65a390ecac5e32bdab
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\81\4e2521c06080699cb763746c7050abf3caefbe - ce14a3f59f918a32b1a1bbe600e48ee8506fee1f
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\81\a3affe22d6a888a6f7d4e005bccbe3171941b3 - b3f65d3a1a5d008b56e46c1a9d68a7a2444cab87
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\82\3044bc90361a7206f518eda2cf1c9f0d56dfe2 - d25b9b59171d60e58c9b5c4c090dd0d5d6e142a1
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\83\1618a12e8c56e748ff031d18060495ac6b7d2a - 0a9b47d50115bc8d5a56e19281b07076e7c28e4f
@@ -115,6 +118,7 @@ E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\8a\9ecc2e
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\8d\d338d4bf55b6dcb0bf0bd86c4471c6939482b2 - 91fedba8a1a0a3ec0860039c752081230f82e251
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\93\b4e275f528cc205b8a0e772e69998024c101c3 - cd685b1c27cf65a5e05f2bdf29a9057d948b4591
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\94\067ae8330085c8d5708b317388e334a38d3e3d - 3358a73e7a6ca45388903a30d31c06c40a447ae7
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\94\2ffe6aad8211befc27da1292c987c99ec4a0b5 - d49c9e8aac3d3a771dde21420f7b6df763bc5da2
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\97\1b6ff5b1ae37d6d80eac64a125e2a6d87ece3f - d5b079449d83e12b812b2f17df75ad9dad1a5cca
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\9a\52ccc0295c867dc6fb0cf190b94b70c11037d0 - 19bda32f269c4ff2c59e53ae020b1f16d5e3be9a
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\9b\42133adb045da58760d5388bcfbe89ab7797e7 - d1450019d5487455a0210936d5ba59ff6d5cd993
@@ -188,8 +192,8 @@ E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\f5\55b765
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\f5\fd5389c5503998d8fbbcf9b06fa0b4723855d1 - 6c0ba9ff52e2d3574b139cb4ef24d1eb28468679
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\f7\5e29b46ce24006b1619c9bdad23593210f9da6 - dc43611bd325db8a0b5bda0fda2ccd89c154449e
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\objects\fc\59ff3782432f477effc1068db76c1de6006c33 - 8e1188562b72377cc118a51f3fa7e6c83acc272a
-E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\refs\heads\master - b674eecd2ef0a88dd8b69d40073d90efe723ea42
-E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\refs\remotes\origin\master - b674eecd2ef0a88dd8b69d40073d90efe723ea42
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\refs\heads\master - e565a42f2335f244fda289bdfa6c78d7d676094e
+E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\.git\refs\remotes\origin\master - e565a42f2335f244fda289bdfa6c78d7d676094e
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\Mafia_Data\app.info - 0aaf9b6c71dcd3a0190e519510bc058372645826
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\Mafia_Data\boot.config - 7488d6620b6dbd8434c51d77e9c5a557c7c4f270
 E:\Projects\Unity Projects\Mafia\Mafia\Builds\mafia_files\Mafia_Data\globalgamemanagers - 565a450727bf06935bbc2b63c068da7b6437fdc0
